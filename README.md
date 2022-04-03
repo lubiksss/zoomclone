@@ -1,2 +1,3 @@
 ## zoom clone coding
-## using nodejs
+using nodejs, websockets, webRTC
+
